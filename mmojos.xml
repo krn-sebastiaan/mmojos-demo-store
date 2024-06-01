@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="ISO-8859-1" standalone="yes"?>
-<?xml-stylesheet type="text/xsl" href="mojos.xsl"?>
+<?xml-stylesheet type="text/xsl" href="mmojos.xsl"?>
 <registry>
-	<mojo>
+	<mmojo>
 		<name>greeting</name>
 		<version>0.0.1</version>
 		<file>greeting/greeting-0.0.1.jar</file>
 		<description>Simple greeting interface</description>
 		<product name="greeting" version="0.0.1"/>
-	</mojo>
+	</mmojo>
 </registry>
